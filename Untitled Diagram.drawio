@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="tVBdfpuG-64OZT9qP7Xx">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BFeNqNKIFf8Pdjw5S3uA-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Supply chain is the process of interconnecting the organization with the activities involved in producting and delivering the goods and services to the end customer&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Emerged in 1980&#39;s&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BFeNqNKIFf8Pdjw5S3uA-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Supply chain management is the process of coordinating the business entire production flow from raw materials to final products to customers&amp;nbsp;&lt;br&gt;It helps to save cost, time, goods waste&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BFeNqNKIFf8Pdjw5S3uA-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;key Elements&amp;nbsp;&lt;br&gt;1.Planning&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2.Sourcing - identify which source we have to use&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3.Manufacturing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4.Invetory Management&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5.Delivery&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;6.Returns&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="730" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BFeNqNKIFf8Pdjw5S3uA-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Approaches to supply chain management&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1.Lean SCM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2.AGILE SCM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3,Six Sigma SCM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4.Total Quality Management&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5.Resilient SCM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;6.Green SCM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;7.Digital SCM&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="550" width="740" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BFeNqNKIFf8Pdjw5S3uA-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
